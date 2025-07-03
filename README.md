@@ -17,7 +17,7 @@ Além da possibilidade criar usuários, editar, visualizar e deletar, quando nec
 Tudo isso através de uma aplicação mobile!</p>
 
 # Público-Alvo👥
-<p>O sistema visa possibilitar uma melhor gestão de estoque às pequenas, médias e grandes empresas, fornencendo ferramentas completas aos usuários, que terão ferramentas completas em suas mãos. </p>
+<p>O sistema visa possibilitar uma melhor gestão de estoque às pequenas, médias e grandes empresas, fornencendo ferramentas completas aos usuários. </p>
 
 # Tipos de usuários 🧔👱🙍
 -  `Estoquista` : Profissional que lida diretamente com os produtos, responsável por inserir informações sobre cada produto, além de também realizar as baixas dos mesmos. O estoquista tem acesso a uma tela simples de informações de cada produto, além de um gráfico básico, que demonstra a porcentagem do estoque que está preenchida;
