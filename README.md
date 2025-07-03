@@ -4,7 +4,7 @@
 
 # Problema 😣
 
-<p> Gerir um estoque, por si só, é um trabalho desgastante, mas imagina fazer a gestão de um estoue sem um sistema de apoio... Seria um caos <br><br>
+<p> Gerir um estoque, por si só, é um trabalho desgastante, mas imagina fazer a gestão de um estoque sem um sistema de apoio, lugar onde fazer as anotações... Seria um caos! <br><br>
 Mercadorias entram e saem, essa movimentação precisa ser anotada, armazenada em algum local.<br><br>
 Além da questão da organização das informações, um bom uso da mesma resulta posteriormente em boas ações financeiras e comerciais, garantindo o sucesso da empresa no mercado.</p>
 
