@@ -9,7 +9,7 @@ Mercadorias entram e saem, essa movimentação precisa ser anotada, armazenada e
 Além da questão da organização das informações, um bom uso da mesma resulta posteriormente em boas ações financeiras e comerciais, garantindo o sucesso da empresa no mercado.</p>
 
 # Solução ☑️
-<p> O protótipo LogiFast vem para solucionar os problemas da gestão da logistíca interna, auxiliando os usuários.<br><br>
+<p> O protótipo LogiFast vem para solucionar os problemas da gestão da logistíca interna, auxiliando os envolvidos<br><br>
 É possível dar entrada dos produtos no sistema, e posteriormente sua baixa, seja por venda, dano ou roubo.<br>
 Aos usuários permitidos, serão demonstradas as informações do estoque por meio de gráficos claros, que visam transmitir as informações de forma objetiva e simples<br>
 Além da possibilidade criar usuários, editar, visualizar e deletar, quando necessário.<br><br>
